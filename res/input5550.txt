@@ -1,0 +1,18 @@
+8
+crcoarkcoroakak
+ccccrrrrooooaaaakkkk
+karoc
+croakcorakcroak
+ccroak
+croakcroakcroakcroakcroakcroakcroakcroakcroakcroak
+ccccccccccrrrrrrrrrrooooooooooaaaaaaaaaakkkkkkkkkk
+crcocrroaokacakkrocrakcorakoak
+
+#1 2
+#2 4
+#3 -1
+#4 -1
+#5 -1
+#6 1
+#7 10
+#8 3
