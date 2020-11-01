@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\dp"
+    "\\src\\com\\ssafy",
+    "\\src\\com\\ssafy\\algo"
   ],
-  "SelectedNode": "\\src\\dp\\main_3316_동아리실관리하기.cpp",
+  "SelectedNode": "\\src\\string",
   "PreviewInSolutionExplorer": false
 }
